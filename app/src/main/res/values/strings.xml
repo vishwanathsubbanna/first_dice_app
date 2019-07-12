@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstDiceApplication</string>
+    <string name="hold_button_clicked">Hold Button Clicked</string>
+    <string name="reset_button_clicked">Reset Button Clicked</string>
+    <string name="roll_button_clicked">Roll Button Clicked</string>
+</resources>
